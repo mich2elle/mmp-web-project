@@ -1,0 +1,18 @@
+body {
+  background-color: #fce4ec;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #5d3f53;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+}
+
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
